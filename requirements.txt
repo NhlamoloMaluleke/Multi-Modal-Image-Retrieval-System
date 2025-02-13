@@ -1,0 +1,7 @@
+pip install torch torchvision faiss-cpu open_clip_torch pillow matplotlib tqdm
+
+torch, torchvision → For working with CLIP
+faiss-cpu → For efficient image searching
+open_clip_torch → Open-source CLIP model
+pillow, matplotlib → For handling images
+tqdm → For progress bars
